@@ -1,0 +1,54 @@
+Design an Electron-based desktop application for "ServerSmith".
+
+Brand Theme:
+- Match the design, color palette, and style of the ServerSmith logo.
+- Maintain a clean, modern, professional look.
+- Light Theme: based on the logo’s background/primary colors.
+- Dark Theme: inverted version of the same palette (dark background, logo accent colors for highlights).
+- Buttons, links, and section headers should use the logo’s accent colors for hover and active states.
+- Subtle animations (hover glow, smooth transitions) that reflect the logo’s aesthetic.
+
+Home Page (Dashboard):
+- Display the ServerSmith logo at the top with tagline: "Build Your Own Minecraft Server with Ease".
+- Grid of feature cards styled to match the logo theme:
+  • Basic Server Setup (Singleplayer → Multiplayer)
+  • Plugins & Mods (Spigot, Paper, Fabric, Forge)
+  • Advanced Multi-Server Setup (BungeeCord, Velocity, Waterfall)
+  • Troubleshooting & Optimization
+- Each card should have matching icon style, hover color effects from the logo theme.
+
+Guides Section:
+- Written tutorials with step-by-step instructions and screenshots.
+- Categories: Basics, Plugins, Mods, Advanced.
+- Search bar styled with the logo’s accent color.
+
+Video Guides Section:
+- Dedicated page for advanced setups (proxy & multi-server configs).
+- Embed YouTube or local video tutorials in a clean player.
+- Video player controls should adopt the logo’s theme colors.
+
+Navigation:
+- Persistent left-hand sidebar navigation.
+- Sections: Home, Guides, Video Guides, FAQ, Contact.
+- Sidebar and icons must reflect the logo’s palette (accent highlights).
+- Smooth expand/collapse animation.
+
+FAQ Page:
+- Accordion-style expandable Q&A.
+- Styled with the same font/color style as the logo’s theme.
+- Content focused only on server creation and setup.
+
+Contact Page:
+- Single contact option: serversmith@gmail.com
+- No office address or phone number.
+- Buttons and form fields styled with the logo’s accent.
+
+Theme Switcher:
+- Fixed button at the bottom-right corner.
+- Allows switching between Light and Dark theme (both aligned to the logo theme).
+- Button itself should use the logo’s accent colors.
+
+Technical Notes:
+- Smooth window resizing.
+- Desktop app feel (not just a website wrapper).
+- All hover and active effects follow the logo’s theme.
